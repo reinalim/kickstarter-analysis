@@ -1,4 +1,4 @@
-# kickstarter-analysis
+# Written Analysis of the Results
 ## 1. Overview of Project
 The purpose of analysis provides a visualization of outcomes based on campaign goals and launch dates to demonstrate how different campaigns fared in relation to their goals and launch dates. 
 ## 2. Analysis and Challenges
@@ -6,7 +6,7 @@ I performed my analysis using the Theater Outcomes by Launch Date and Outcomes B
 
 ## 3. Results
 ### 3.1 Two conclusion are made about the Theater Outcomes by Launch Date
-![Theater_Outcomes_vs_Launch.png]
+![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png)
 
 * The chart (Theater Outcomes Based on Launch Date) demonstrates, the plays launched most successfully is between April to Aug especially in the month of May which it hits the highest point and follow by June, which shows the second highest.
 * The canceled plays does not seems to be affected much by launch date. The successful plays is more affected by launch date compared to the failed and canceled plays in the theater. 
