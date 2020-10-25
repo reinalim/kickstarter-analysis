@@ -8,7 +8,7 @@ I performed my analysis using the Theater Outcomes by Launch Date and Outcomes B
 ### Two conclusion are made about the Theater Outcomes by Launch Date
 * The chart demonstrates, the plays launched most successfully is between April to Aug especially in the month of May which it hits the highest point and follow by June, which shows the second highest.
 
-![Theater_Outcomes_vs_Launch](https://github.com/reinalim/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
+   ![Theater_Outcomes_vs_Launch](https://github.com/reinalim/kickstarter-analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 
 * The canceled plays does not seems to be affected much by launch date. The successful plays is more affected by launch date compared to the failed and canceled plays in the theater. 
 
